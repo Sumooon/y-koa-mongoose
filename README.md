@@ -1,2 +1,2 @@
 # y-koa-mongoose
-mongoose for koi
+mongoose for koa

@@ -22,15 +22,15 @@
     "url": "https://github.com/Sumooon/y-koa-mongoose/issues"
   },
   "homepage": "https://github.com/Sumooon/y-koa-mongoose#readme",
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "chai-spies": "^0.7.1",
-    "koa": "^2.1.0",
-    "mocha": "^2.5.3",
-    "supertest-koa-agent": "^0.3.0"
-  },
   "dependencies": {
-    "glob": "^7.1.1",
-    "mongoose": "^4.8.6"
+    "glob": "^7.1.2",
+    "mongoose": "^5.1.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-spies": "^1.0.0",
+    "koa": "^2.5.1",
+    "mocha": "^5.1.1",
+    "supertest-koa-agent": "^0.3.0"
   }
 }

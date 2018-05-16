@@ -164,6 +164,11 @@ app.use(mongoose({
 }))
 ```
 
+## Test
+* mocha 会查找当前文件目录下test文件夹下的内容，自动执行
+npm i mocha -g
+mocha
+
 ## Licences
 
 [MIT](LICENSE)

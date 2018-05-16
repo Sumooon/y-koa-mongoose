@@ -1,0 +1,25 @@
+{
+  "name": "y-koa-mongoose",
+  "version": "1.0.0",
+  "description": "mongoose for koa",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumooon/y-koa-mongoose.git"
+  },
+  "keywords": [
+    "koa-mongoose"
+  ],
+  "author": "sumooon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumooon/y-koa-mongoose/issues"
+  },
+  "homepage": "https://github.com/Sumooon/y-koa-mongoose#readme"
+}

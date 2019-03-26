@@ -1,5 +1,12 @@
 # y-koa-mongoose
 
+## Tips
+* this plugins is owned by jackong
+* i rewrite this plugin case it is no latest version in npm
+* it can't init with replicaSet
+* so it comes
+* Thanks again for jackong
+
 ## Features
 * upgraded for Koa 2
 * uses upgraded mongoose configured to use native `Promise`
